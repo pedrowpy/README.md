@@ -1,18 +1,8 @@
+## 💻 I'm Pedro, a technology addict
 
-<!-- /<div align="center">/ -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media1.tenor.com/m/_uvDfpLa3vcAAAAd/naruto-sage-mode.gif" height="20%" width="20%"/>
-  <div style="display: flex;">
-    <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
-    <h6>I'm Pedro, a technology addict. <br>Junior Software Developer at Rakha Tecnologia.</h6>
-  <a href="https://phfer.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;"></a> <br>
-<!-- <img style="width: 400px; height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=initpedro&theme=dark&hide_border=true"> -->
-
-
-
-  </div>
-</div>
+💬 I'm always open to discussions about technology, collaboration opportunities, and networking! <br>
+🚀 Interested in challenging projects involving C# / ASP.NET, Java, TSX, and scalable architectures. <br>
+📧 Feel free to reach out to exchange ideas or explore professional opportunities. <br>
 
 <details>
 <summary><b>Skills</b></summary>
@@ -34,10 +24,6 @@
 
 
 ## 🍿 $chill
-
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@initpedro?theme=rule34"  />
-</h6 <br>
 
 <h6 align="center">
   <a href="https://github.com/initpedro" target="_blank">
@@ -78,6 +64,9 @@
 </details>
 
 ## 🎵 $listening
+<details>
+  <summary><b>📊 Music</b></summary>
 
 <div align="center"> <img width="20%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dmje5io9mm5mj103jf2d684v0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=c1da03")>
 </div>
+</details>
