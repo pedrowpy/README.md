@@ -4,8 +4,6 @@
 🚀 Interested in challenging projects involving C# / ASP.NET, Java, TSX, and scalable architectures. <br>
 📧 Feel free to reach out to exchange ideas or explore professional opportunities. <br>
 </details>
-
-## 🍿 $chill
 <h6 align="center">
   <a href="https://github.com/initpedro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
